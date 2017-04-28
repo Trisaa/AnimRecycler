@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GroupApplication</string>
+    <string name="title_toolbar">New group</string>
+    <string name="menu_search">Search</string>
+    <string name="add_friend">Add friend</string>
+    <string name="default_title_toolbar">Add participants</string>
+
+    <string-array name="friends_array">
+        <item>Tom</item>
+        <item>Mike</item>
+        <item>Billy</item>
+        <item>Marry</item>
+        <item>Swift</item>
+        <item>Orange</item>
+        <item>Ming</item>
+        <item>Yong</item>
+        <item>Dong</item>
+        <item>Apple</item>
+        <item>Jim</item>
+    </string-array>
+</resources>
